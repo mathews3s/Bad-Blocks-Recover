@@ -4,8 +4,11 @@ It's project created for solving problems with "bad blocks" at physical hard dri
 This program is currently not operational and you can use it as a template. There is no GUI here, the project is a console application.
 
 Classes.h - consist all class for creating drive handle and methods which operate with them.
+
 Source.cpp - consist pseudo-interface functions and main program.
+
 Libers.h - winapi libraries and others.
+
 BADS_RECOVER - exe file. Launch it with Administrator rights.
 
 The author is not responsible for the consequences of using this software. Run this utility at your own risk.
